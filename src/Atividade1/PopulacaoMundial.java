@@ -13,7 +13,9 @@ public class PopulacaoMundial {
 
         double estimativa = total * anos;
 
-        System.out.println(estimativa);
+        double projecao = populacaoMundial + estimativa;
+
+        System.out.println(projecao);
 
     }
 }
