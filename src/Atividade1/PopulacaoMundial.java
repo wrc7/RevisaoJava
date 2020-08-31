@@ -2,7 +2,7 @@ package Atividade1;
 
 public class PopulacaoMundial {
     public static void main(String[] args) {
-//        int ano = Integer.parseInt(args[0]);
+
         int anos = 2;
         long populacaoMundial = 7807229720L;
         double percentual = 1.05;
